@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.05e09aeb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OctaneRaytrace-Xamarin\MainActivity.cs">
+    <Files>
+      <File FileName="OctaneRaytrace-Xamarin\MainActivity.cs" Line="27" Column="27" />
+      <File FileName="OctaneRaytrace-Xamarin\RayTracer.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OctaneRaytrace-Xamarin MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,13 @@
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\bin\Debug\OctaneRaytrace-Xamarin.dll
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\bin\Debug\OctaneRaytrace-Xamarin.pdb
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\bin\Debug\OctaneRaytrace-Xamarin.dll.mdb
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\bin\Debug\OctaneRaytrace_Xamarin.OctaneRaytrace_Xamarin.apk
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\bin\Debug\OctaneRaytrace_Xamarin.OctaneRaytrace_Xamarin-Signed.apk
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\OctaneRaytrace-Xamarin.dll
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\OctaneRaytrace-Xamarin.pdb
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\android\bin\OctaneRaytrace_Xamarin.OctaneRaytrace_Xamarin.apk
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\res\layout\main.xml
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\res\values\strings.xml
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\res\drawable\icon.png
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\R.cs.flag
+C:\Users\ianet\Documents\Projects\OctaneRaytrace-Xamarin\OctaneRaytrace-Xamarin\obj\Debug\uploadflags.txt
